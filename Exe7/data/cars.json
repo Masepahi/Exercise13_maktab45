@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "title": "Mercedes-Benz G-Class",
+      "description":
+        "Strong characters. Strong emotions. Stronger than ever. Discover the multifaceted world of the G-Class and be inspired by the characteristics,that this exceptional off-roader has represented for over 40 years."
+    },
+    {
+      "id": "2",
+      "title": "FORD MUSTANG MACH-E",
+      "description":
+        "Built from all the passion of its iconic heritage, Mustang Mach-E is the new shape of freedom. Get ready for 0–60 thrills, expansive range, zero vehicle emissions and more from the 2021 North American Utility Vehicle of the Year."
+    },
+    {
+      "id": "3",
+      "title": "Jeep Wrangler 2021",
+      "description":
+        "Wrangler offers an impressive set of standard and available safety and security features to help keep you protected on the road. In addition, a 3-year membership in the Jeep Wave"
+    },
+    {
+      "id": "4",
+      "title": "Ford Bronco",
+      "description":
+        "We’re doing something different with how we build the Bronco. We have designed each Bronco series around different types of adventure. Choose the series that fits you and your adventures best, then customize it even more with over 200 Ford accessories to truly make it your own"
+    },
+    {
+      "id": "5",
+      "title": "Ford-150 Raptor",
+      "description":
+        "Born from the award-winning lineage of Ford F-Series pickup trucks, the Baja-bred F-150 Raptor is a true showcase of Built Ford Tough™ engineering."
+    },
+    {
+      "id": "6",
+      "title": "Land Rover Defender",
+      "description":
+        "Since its debut, the Land Rover Defender has represented strength and off-road excellence in some of the most inhospitable places across the world."
+    }
+    
+]
